@@ -1,6 +1,6 @@
 ## ASCII art Maker
  
-A program which accepts an input for a path of photo and prints its ASCII art equivalent on the console and also saves that art in a text file.
+A program which accepts an input for a path of a photo and prints its ASCII art equivalent on the console and also saves that art in a text file.
 
 ### How does it work?
 
